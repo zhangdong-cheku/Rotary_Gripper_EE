@@ -29,3 +29,33 @@
 总结
 
 这个夹爪不追求大力矩，而是强调 控制简单、可靠、适合轻载与重复动作。无论是机器人爱好者、教育平台，还是想做某些轻量自动化测试的工程师，都能很快上手并整合到自己的系统中。
+
+This gripper is mainly targeted at scenarios that require "stable grasping + simple control". The overall structure is not complicated, but it is highly practical and suitable for use in various light-load mechanical hands and robot projects.
+
+Item sorting/sorting line assistance
+
+In the sorting application, it can pick up small objects of different sizes - such as packages, small parts, etc. - according to the preset movement rhythm. When combined with sensors, it can also achieve automatic judgment and diversion, which is quite sufficient for lightweight warehousing systems.
+
+Small-scale automated tasks for warehousing equipment
+
+In small items similar to automatic access, this gripper can be responsible for moving items from point A to point B. It does not pursue large loads, but it excels in high positioning accuracy and stable action repeatability. This is a very suitable end effector for some semi-automatic storage equipment.
+
+Service robot
+
+On the service robot, it can perform some basic operational actions, such as picking up items, pressing buttons, and transporting light props. It is suitable for use in environments such as hotel welcome machines and human-machine interaction robots that have requirements for "gentle movements and clean operation".
+
+Education/Research and experimentation
+
+As a teaching mechanical gripper, its structure is easy to understand and simple to debug, making it very suitable as an introductory platform for learning "servo control", "mechanical structure", and "gripper kinematics". In scientific research experiments, it is also often used as a test platform to verify algorithms or end control logic.
+
+Medical and precision operation robots (lightweight)
+
+Although it is not a medical-grade product, it is completely fine for experimental medical robot research, such as picking up small instruments and performing some micro-operation actions. Relatively stable fine displacements can be achieved through PID or custom control algorithms.
+
+Search and rescue/small task operations in special environments
+
+In some lightweight search and rescue robot prototypes, it can perform basic actions such as picking up and moving obstacles. Although the load is not high, it has the advantages of fast response and light structure, making it suitable for installation on small-sized mobile platforms.
+
+Summary
+
+This gripper does not aim for large torque but emphasizes simple and reliable control, making it suitable for light loads and repetitive actions. Whether you are a robot enthusiast, an educational platform, or an engineer who wants to do some lightweight automated testing, you can quickly get started and integrate it into your own system.
