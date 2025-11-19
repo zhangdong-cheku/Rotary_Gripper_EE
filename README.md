@@ -59,4 +59,4 @@ In some lightweight search and rescue robot prototypes, it can perform basic act
 Summary
 
 This gripper does not aim for large torque but emphasizes simple and reliable control, making it suitable for light loads and repetitive actions. Whether you are a robot enthusiast, an educational platform, or an engineer who wants to do some lightweight automated testing, you can quickly get started and integrate it into your own system.
-![图片描述](GIF的在线链接)
+![图片描述](pictures/末端执行器.gif)
